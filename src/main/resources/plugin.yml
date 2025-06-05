@@ -1,0 +1,12 @@
+name: Artifacts
+version: '1.0'
+main: me.imhermes.artifacts.Artifacts
+api-version: '1.21'
+author: ImHermes
+database: false
+description: Artifacts plugin, "commission coded" (you could say)
+website: https://imhermes.me
+commands:
+  admin-artifacts:
+    permission: artifacts.admin
+    description: Admin command for artifacts
