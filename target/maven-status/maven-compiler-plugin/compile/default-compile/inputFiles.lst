@@ -1,0 +1,11 @@
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/Artifacts.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/commands/CmdAdminArtifacts.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/commands/CmdArtifact.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/listeners/EnableArtifacts.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/listeners/ModifiablePersistentDataContainers.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/listeners/SpecialArtifacts.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/skript/expressions/ExprArtifactItem.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/skript/expressions/ExprArtifactsOfPlayer.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/skript/expressions/ExprEnabledArtifactsOfPlayer.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/util/Util.java
+/home/HermesK/IdeaProjects/Artifacts/src/main/java/me/imhermes/artifacts/util/Volume.java

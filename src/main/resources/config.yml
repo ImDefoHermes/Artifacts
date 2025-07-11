@@ -1,0 +1,22 @@
+whitelist-on-disable: false
+prefix:
+  message: "<b><light_purple>[Artifacts]</light_purple></b>"
+  error: "<b><red>[Artifacts Error]</red></b>"
+artifact_usages:
+  key_finder:
+    chance: 0.1 # A number between 0 and 1. 0 being impossible and 1 being guaranteed. Defaults to 0.1 if none is set
+    commands: [] # Commands (in order) to execute in console when the key is gotten. I don't know excellent crates commands so yk. <p> is the player
+  hunter:
+    chance: 0.5 # Chance a
+  lightning:
+    chance: 0.5 # Chance lightning spawns
+  scavenger: # Command to run. Use <p> as player name
+    coal: ""
+    iron: ""
+    gold: ""
+    diamond: ""
+
+mines: [] # Use /admin-artifacts mine
+
+#
+artifacts: []

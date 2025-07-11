@@ -1,0 +1,12 @@
+me/imhermes/artifacts/skript/expressions/ExprEnabledArtifactsOfPlayer.class
+me/imhermes/artifacts/util/Util.class
+me/imhermes/artifacts/commands/CmdAdminArtifacts.class
+me/imhermes/artifacts/listeners/ModifiablePersistentDataContainers.class
+me/imhermes/artifacts/listeners/SpecialArtifacts.class
+me/imhermes/artifacts/listeners/EnableArtifacts.class
+me/imhermes/artifacts/skript/expressions/ExprArtifactItem.class
+me/imhermes/artifacts/util/Volume.class
+me/imhermes/artifacts/skript/expressions/ExprArtifactsOfPlayer.class
+me/imhermes/artifacts/Artifacts.class
+me/imhermes/artifacts/commands/CmdArtifact.class
+me/imhermes/artifacts/skript/expressions/ExprArtifactsOfPlayer$1.class
